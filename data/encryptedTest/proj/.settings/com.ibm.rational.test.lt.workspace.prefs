@@ -1,0 +1,8 @@
+StickyFolders///Compound\ Tests=com.ibm.rational.test.lt.scenario
+StickyFolders///Datasets=com.ibm.rational.test.lt.datapool
+StickyFolders///JMeter\ Tests=com.ibm.rational.test.jmeter
+StickyFolders///Locations=com.ibm.rational.test.lt.location
+StickyFolders///Results=com.ibm.rational.test.lt.stats.session
+StickyFolders///Schedules=com.ibm.rational.test.lt.rate.schedule,com.ibm.rational.test.lt.schedule
+StickyFolders///Tests=com.ibm.rational.test.lt.test
+eclipse.preferences.version=1

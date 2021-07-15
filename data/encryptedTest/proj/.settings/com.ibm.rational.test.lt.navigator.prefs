@@ -1,0 +1,8 @@
+DefaultFolders/com.ibm.rational.test.jmeter.navigator.category=/JMeter Tests
+DefaultFolders/com.ibm.rational.test.lt.datapool.category=/Datasets
+DefaultFolders/com.ibm.rational.test.lt.execution.results.category=/Results
+DefaultFolders/com.ibm.rational.test.lt.location.category=/Locations
+DefaultFolders/com.ibm.rational.test.lt.scenario.editor.compoundTest=/Compound Tests
+DefaultFolders/com.ibm.rational.test.lt.schedule.category=/Schedules
+DefaultFolders/com.ibm.rational.test.lt.testeditor.test.category=/Tests
+eclipse.preferences.version=1
